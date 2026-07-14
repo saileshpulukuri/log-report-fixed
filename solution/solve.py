@@ -24,3 +24,5 @@ with open("/app/out.json", "w") as out:
         out,
     )
 print("wrote /app/out.json")
+
+print("testings ")
